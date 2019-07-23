@@ -1,0 +1,3 @@
+Order ID,Order Name,Order Status,Last Fulfill Date,Tracking Number,Notes,Paid_at,Processed at,Order Created At,Quantity,Lineitem SKU,Shipping Company Name,Replace at
+820257_916458_85858,#1836,SHIPPING,11-30-2018 05:07:03,ANCNVVV,,11-29-2018 02:25:00,11-30-2018 05:05:21,11-27-2018 08:15:26,1,UBBR00BK1L,EMS_ZX_ZX_US,11-30-2018 03:50:02
+781767_872073_90326,#1727,TO_ORDER,Not fulfill,,,11-09-2018 07:59:37,Not processed yet,11-09-2018 07:57:53,1,UBBR00BK1L,EMS_ZX_ZX_US,12-04-2018 02:33:37
